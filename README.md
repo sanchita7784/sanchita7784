@@ -39,7 +39,7 @@
 ## 🔥 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanchita7784&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchita7784&layout=compact&theme=radical" />
 </p>
 
 ---
