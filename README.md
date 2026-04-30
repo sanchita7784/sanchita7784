@@ -12,7 +12,7 @@
 ---
 
 ## 👩‍💻 About Me
-- 🎓 BCA Final Year Student  
+- 🎓 MCA 1st Year Student  
 - 💻 Passionate about **Web Development & UI Design**  
 - 🚀 Currently working on **Full Stack Projects (MERN)**  
 - 🎯 Goal: Become a Professional Software Engineer  
