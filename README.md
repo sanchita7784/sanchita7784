@@ -15,7 +15,6 @@
 - 🎓 BCA Final Year Student  
 - 💻 Passionate about **Web Development & UI Design**  
 - 🚀 Currently working on **Full Stack Projects (MERN)**  
-- 📚 Preparing for **IBPS Clerk Exam**  
 - 🎯 Goal: Become a Professional Software Engineer  
 
 ---
