@@ -1,80 +1,76 @@
 <h1 align="center">Hi 👋, I'm Sanchita Sharma</h1>
-<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">✨ Full Stack Developer | React • Node • MongoDB ✨</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> 
-</p>
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="50" height="50" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="50" height="50" />
-</div>
-
----
-
-### 🚀 About Me
-- 🎓 BCA Final Year Student (CT University, Ludhiana)
-- 💻 Full Stack Developer (MERN Stack)
-- 🎨 Frontend Designer with strong UI/UX skills
-- 🔭 Currently working on **Product Management System (MERN)**
-- 🌱 Learning **Advanced JavaScript & Backend Optimization**
-- ⚡ Love building **responsive & animated websites**
-
----
-
-### 🌐 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINK" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
-
----
-
-### 🛠️ Languages and Tools
-
-#### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-</p>
-
-#### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-#### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-#### 🔧 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-| ![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true) | ![streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight) |
-|---|---|
-
----
-
-### 🐍 Contribution Snake
 <p align="center">
- <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Lover;UI%2FUX+Enthusiast;Always+Learning+New+Things" />
+</p>
+
+---
+
+## 👩‍💻 About Me
+- 🎓 BCA Final Year Student  
+- 💻 Passionate about **Web Development & UI Design**  
+- 🚀 Currently working on **Full Stack Projects (MERN)**  
+- 📚 Preparing for **IBPS Clerk Exam**  
+- 🎯 Goal: Become a Professional Software Engineer  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,tailwind,bootstrap,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+</p>
+
+---
+
+## 🔥 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## ✨ Featured Projects
+
+### 🛒 Mastrokart (Multi-Vendor Ecommerce)
+- 🏪 Multi-store platform  
+- 📦 Product management system  
+- 🖼️ Image upload + metadata  
+- ⚡ Built using React, Node, MongoDB  
+
+---
+
+## 💡 Fun Fact
+✨ I love designing beautiful UIs & turning ideas into reality!
+
+---
+
+<p align="center">💖 Thanks for visiting my profile 💖</p>
