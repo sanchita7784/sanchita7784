@@ -63,7 +63,7 @@
 - 🏪 Multi-store platform  
 - 📦 Product management system  
 - 🖼️ Image upload + metadata  
-- ⚡ Built using React, Node, MongoDB  
+- ⚡ Built using React, Html,Css 
 
 ---
 
